@@ -1,4 +1,6 @@
-Activity                                    Date            Span
-Susibūrimas ir projekto pasirinkimas        2025-03-19      1 h
-Projekto planavimas, aptarimas              2025-03-29      3 h
-Projekto vizijos užbaigimas                 2025-04-02      3 h
+Activity                                    Date            Span          Person
+Susibūrimas ir projekto pasirinkimas        2025-03-19      1 h           Mantas, Artūras
+Projekto planavimas, aptarimas              2025-03-29      3 h           Mantas, Artūras
+Projekto vizijos užbaigimas                 2025-04-02      3 h           Mantas, Artūras
+Projekto vizijos taisymas                   2025-04-08      2 h           Mantas
+Projekto vizijos taisymas                   2025-04-09      2 h           Mantas
